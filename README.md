@@ -3,7 +3,7 @@
 I'm a Junior Frontend Developer, focused on providing solutions to product problems, with an artistic touch and optimization.
 I'm also very enthusiastic about several relevant technologies and am currently learning advanced modern JavaScript.
 
-My preferred tech stack :
+My Tech Stack is :
 
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="max-width: 100%;">
 
