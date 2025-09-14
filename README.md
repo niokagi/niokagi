@@ -5,8 +5,6 @@ I'm also very enthusiastic about several relevant technologies and am currently 
 
 My Tech Stack is :
 
-<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="max-width: 100%;">
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" style="max-width: 100%;">
 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
