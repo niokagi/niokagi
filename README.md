@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm a Junior Frontend Developer, focused on providing solutions to product problems, with an artistic touch and optimization.
-I'm also very enthusiastic about several relevant technologies and am currently learning advanced modern JavaScript.
+I'm a Junior Frontend Dev, focused on providing solutions to product problems, with an artistic touch and optimization.
+also enthusiastic about several relevant technologies and am currently learning advanced modern JavaScript.
 
 I Code :
 
