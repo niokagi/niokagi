@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Junior Web Dev who believes "good enough" is never good enough.
+I'm a Junior Web Engineer who believes "good enough" is never good enough.
 
 I tackle product problems with a critical eye, blending an artistic touch with a near-obsessive drive for optimization. That perfectionist (and admittedly, slightly OCD) mindset means I'm not just here to write code that *works*, I'm here to build solutions that *perform* efficiently and elegantly.
 
