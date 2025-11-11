@@ -22,7 +22,7 @@ I Code:
 
 And currently learn:
 
-<img align="left" alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="max-width: 100%;">
+<img align="left" alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
 
 
 
