@@ -22,8 +22,6 @@ Tech stack & Tools:
 
 <img align="left" alt="Vitejs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" style="max-width: 100%;">
 
-<br>
-
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
 
 <img align="left" alt="Postman" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="max-width: 100%;">
