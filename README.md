@@ -26,7 +26,6 @@ Tech stack & Tools:
 
 <img align="left" alt="Postman" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="max-width: 100%;">
 
 <br><br>
 
@@ -34,9 +33,11 @@ And currently learn:
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width: 100%;">
+<img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="max-width: 100%;">
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width: 100%;">
+
+<img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="max-width: 100%;">
 
 
 
