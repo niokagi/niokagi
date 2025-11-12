@@ -32,7 +32,12 @@ Tech stack & Tools:
 
 And currently learn:
 
-<img align="left" alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
+
+<img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width: 100%;">
+
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="max-width: 100%;">
+
 
 
 
