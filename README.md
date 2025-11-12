@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 I'm a Junior Web Engineer who believes "good enough" is never really good enough.
-
-Honestly, I'm a meticulous problem-solver who just loves getting into the weeds. I'm driven by a deep commitment to excellence, so I analyze complex product challenges with a critically, detail-obsessed lens. This approach lets me systematically balance a passion for elegant design (gotta make it look good!) with a hardcore drive for optimization. My goal isn't to build things that just work, but it's to engineer solutions that are genuinely efficient, robust, and polished down to the last pixel.
+also an enthusiastic learner, problem solver, and often a perfectionist when it comes to the products I develop. 
 
 Tech stack & Tools:
 
