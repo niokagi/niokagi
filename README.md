@@ -36,7 +36,7 @@ And currently learn:
 
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="max-width: 100%;">
+<!-- <img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="max-width: 100%;"> -->
 
 
 
