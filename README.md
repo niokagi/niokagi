@@ -13,11 +13,11 @@ Tech stack & Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="max-width: 100%;">
+<!-- <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="max-width: 100%;"> -->
 
 <img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;">
 
-<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="max-width: 100%;">
+<!-- <img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="max-width: 100%;"> -->
 
 <img align="left" alt="Vitejs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" style="max-width: 100%;">
 
