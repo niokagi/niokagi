@@ -23,9 +23,6 @@ also an enthusiastic learner, problem solver, and often a perfectionist when it 
 
 <!-- <img align="left" alt="Postman" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="max-width: 100%;"> -->
 
-
-<br>
-
 I currently learn:
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
