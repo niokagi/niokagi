@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Junior Web Engineer who believes "good enough" is never really good enough.
+I'm a Junior Software Engineer who believes "good enough" is never really good enough.
 also an enthusiastic learner, problem solver, and often a perfectionist when it comes to the products I develop. 
 
 <!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" style="max-width: 100%;"> -->
