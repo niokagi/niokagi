@@ -1,4 +1,4 @@
-# Hi there
+# Hi there!
 
 I'm an Informatics Engineering student interested in how software is designed and built, from understanding what's actually needed, to shaping it into an implementation that's clean and maintainable. I lean toward agile practices and a continuous improvement mindset, since software tends to get better through iteration and honest feedback. I also use AI tools regularly to support my work, mostly to speed up routine tasks, explore ideas faster, and stay focused on the parts that need real thinking. Currently exploring newer technologies, including ERP ecosystems, and comfortable working alongside cross-disciplinary teams to shape technical decisions that stay connected to the bigger picture.
 
