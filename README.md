@@ -1,7 +1,4 @@
-## Hi there 👋
-
-I'm a Junior Software Engineer who believes "good enough" is never really good enough.
-also an enthusiastic learner, problem solver, and often a perfectionist when it comes to the products I develop. 
+An Informatics Engineering student interested in how software is designed and built, from understanding what's actually needed, to shaping it into an implementation that's clean and maintainable. I lean toward agile practices and a continuous improvement mindset, since software tends to get better through iteration and honest feedback. I also use AI tools regularly to support my work, mostly to speed up routine tasks, explore ideas faster, and stay focused on the parts that need real thinking. Currently exploring newer technologies, including ERP ecosystems, and comfortable working alongside cross-disciplinary teams to shape technical decisions that stay connected to the bigger picture.
 
 <!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" style="max-width: 100%;"> -->
 
@@ -23,7 +20,7 @@ also an enthusiastic learner, problem solver, and often a perfectionist when it 
 
 <!-- <img align="left" alt="Postman" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="max-width: 100%;"> -->
 
-I currently learn:
+<!-- I currently learn:
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
 
@@ -32,6 +29,7 @@ I currently learn:
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width: 100%;">
 
 <br>
+-->
 <!-- <img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="max-width: 100%;"> -->
 
 
